@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0xa2bfc3e346550120f33a108ef0b1c77b2762f3d8",
-  "SCAN_LINK": "https://galaxy.scan.caduceus.foundation/address/0xa2bfc3e346550120f33a108ef0b1c77b2762f3d8",
+  "CONTRACT_ADDRESS": "0x4a2cacaeff0abd93b46567f9566b951b09ecb22a",
+  "SCAN_LINK": "https://galaxy.scan.caduceus.foundation/address/0x4a2cacaeff0abd93b46567f9566b951b09ecb22a",
   "NETWORK": {
     "NAME": "CMP-TestNet",
     "SYMBOL": "CMP",
     "ID": 512512
   },
-  "NFT_NAME": "Cad Doggos",
-  "SYMBOL": "CT",
+  "NFT_NAME": "Cad Doggos NFT",
+  "SYMBOL": "CaDNFT",
   "MAX_SUPPLY": 100,
   "WEI_COST": 10000000000000000000,
   "DISPLAY_COST": 10,
