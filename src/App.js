@@ -145,7 +145,7 @@ function App() {
       .then((receipt) => {
         console.log(receipt);
         setFeedback(
-          `WOW, the ${CONFIG.NFT_NAME} is yours! go visit Opensea.io to view it.`
+          `WOW, the ${CONFIG.NFT_NAME} is yours! Visit the Gallery link to view it.`
         );
         setClaimingNft(false);
         dispatch(fetchData(blockchain.account));
@@ -262,7 +262,7 @@ function App() {
                   margin: "5px",
                 }}
                 onClick={(e) => {
-                  window.open(CONFIG.MARKETPLACE_LINK, "_blank");
+                  window.open("/config/Thesite.html", "_blank");
                 }}
               >
                 {CONFIG.MARKETPLACE}
